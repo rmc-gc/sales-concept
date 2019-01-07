@@ -1,0 +1,120 @@
+{
+    "results": [{
+        "id": "vHXJN6RvPW",
+        "CustomerNo": "AA12345678",
+        "amount": "913.00",
+        "description": "Libero inventore enim.",
+        "effectiveDate": "2018-05-09T04:15:40.930Z",
+        "paidDate": "2018-09-16T12:45:03.304Z",
+        "paymentRef": "2b193792cf",
+        "paymentFlag": "U"
+    }, {
+        "id": "KhoJYeLjCC",
+        "CustomerNo": "AA12345678",
+        "amount": "997.00",
+        "description": "Repudiandae dolorem voluptatem.",
+        "effectiveDate": "2018-02-10T17:21:51.640Z",
+        "paidDate": null,
+        "paymentRef": null,
+        "paymentFlag": null
+    }, {
+        "id": "5thq1WZUdG",
+        "CustomerNo": "AA12345678",
+        "amount": "168.00",
+        "description": "Aut ut voluptas ut ea.",
+        "effectiveDate": "2018-01-25T05:01:34.316Z",
+        "paidDate": null,
+        "paymentRef": null,
+        "paymentFlag": null
+    }, {
+        "id": "oOAqnpFn4m",
+        "CustomerNo": "AA12345678",
+        "amount": "989.00",
+        "description": "Atque officiis sit placeat eum.",
+        "effectiveDate": "2018-03-25T12:56:45.290Z",
+        "paidDate": "2018-04-11T23:29:42.731Z",
+        "paymentRef": "3a16882535",
+        "paymentFlag": "U"
+    }, {
+        "id": "rXGEIM6ojU",
+        "CustomerNo": "AA12345678",
+        "amount": "396.00",
+        "description": "Necessitatibus illum nesciunt aut ut qui.",
+        "effectiveDate": "2018-11-18T11:03:28.177Z",
+        "paidDate": null,
+        "paymentRef": null,
+        "paymentFlag": null
+    }, {
+        "id": "CiArFRrujH",
+        "CustomerNo": "AA12345678",
+        "amount": "134.00",
+        "description": "Impedit consequatur nesciunt quos laborum eaque fuga ipsa ipsa rerum.",
+        "effectiveDate": "2018-11-27T05:41:33.629Z",
+        "paidDate": null,
+        "paymentRef": null,
+        "paymentFlag": null
+    }, {
+        "id": "cx4Asjxqiw",
+        "CustomerNo": "AA12345678",
+        "amount": "472.00",
+        "description": "Corrupti molestiae sint quia eligendi hic aspernatur.",
+        "effectiveDate": "2018-08-23T11:19:30.217Z",
+        "paidDate": null,
+        "paymentRef": null,
+        "paymentFlag": null
+    }, {
+        "id": "DsyBoPycgs",
+        "CustomerNo": "AA12345678",
+        "amount": "408.00",
+        "description": "Aut qui cum laborum.",
+        "effectiveDate": "2019-01-21T13:54:55.338Z",
+        "paidDate": "2018-08-26T10:01:07.648Z",
+        "paymentRef": "9d3189b9c3",
+        "paymentFlag": "S"
+    }, {
+        "id": "6hIbIfdYbS",
+        "CustomerNo": "AA12345678",
+        "amount": "736.00",
+        "description": "Cum nobis nobis quos iusto veritatis natus.",
+        "effectiveDate": "2018-09-11T03:48:44.015Z",
+        "paidDate": "2018-10-29T01:34:24.638Z",
+        "paymentRef": "4128d6588d",
+        "paymentFlag": "S"
+    }, {
+        "id": "V4WJ70gBIm",
+        "CustomerNo": "AA12345678",
+        "amount": "152.00",
+        "description": "Et rerum aliquam voluptate quia cupiditate.",
+        "effectiveDate": "2018-05-08T16:25:54.575Z",
+        "paidDate": "2018-05-14T04:37:45.254Z",
+        "paymentRef": "27e1e9aea1",
+        "paymentFlag": "U"
+    }, {
+        "id": "dsw1C1C92W",
+        "CustomerNo": "AA12345678",
+        "amount": "247.00",
+        "description": "Dolorem tempora quo iste et deleniti necessitatibus aut et molestiae.",
+        "effectiveDate": "2018-08-22T13:15:17.967Z",
+        "paidDate": null,
+        "paymentRef": null,
+        "paymentFlag": null
+    }, {
+        "id": "AJ7PBjdQP0",
+        "CustomerNo": "AA12345678",
+        "amount": "940.00",
+        "description": "Est omnis amet aspernatur consequuntur magni vitae cupiditate et.",
+        "effectiveDate": "2018-11-27T17:55:28.174Z",
+        "paidDate": "2018-12-05T20:51:28.169Z",
+        "paymentRef": "bd267879a3",
+        "paymentFlag": "S"
+    }, {
+        "id": "kv7Ahlc1jh",
+        "CustomerNo": "AA12345678",
+        "amount": "919.00",
+        "description": "Laudantium velit exercitationem repudiandae fuga.",
+        "effectiveDate": "2018-06-26T18:22:09.490Z",
+        "paidDate": "2018-07-15T14:01:38.748Z",
+        "paymentRef": "725e5ffef9",
+        "paymentFlag": "S"
+    }]
+}

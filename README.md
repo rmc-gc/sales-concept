@@ -1,4 +1,4 @@
-# build-a-bot
+# sales-concept
 
 ## Project setup
 ```
